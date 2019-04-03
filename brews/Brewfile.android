@@ -1,0 +1,7 @@
+# Binaries
+brew 'android-sdk'
+brew 'gradle'
+
+# Apps
+cask 'java'
+cask 'android-studio'
